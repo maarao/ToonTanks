@@ -15,6 +15,7 @@ void ATankGameModeBase::BeginPlay()
 void ATankGameModeBase::ActorDied(AActor* DeadActor)
 {
     // Check which tupe of actor died. If turret, tally. If player -> go to lose condition.
+    UE_LOG(LogTemp, Warning, TEXT("A Pawn Died"));
 }
 
 void ATankGameModeBase::HandleGameStart()
