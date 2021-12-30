@@ -2,6 +2,8 @@
 
 Move around and shoot other tanks with WASD and Left Click.
 
+Go to https://github.com/zenM49/ToonTanks/releases to download.
+
 :)
 
 Screenshots:
